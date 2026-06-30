@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Vikram Singh
+## Hi there, I'm Vikram Singh
 
 🎓 **B.Tech Computer Science Engineering (Data Science)**  
 📍 3rd Year Student  
@@ -6,7 +6,7 @@
 
 ---
 
-## 🚀 About Me
+### 🚀 About Me
 
 - 🎓 B.Tech CSE (Data Science) Student
 - 🌱 Currently learning **Spring Boot, Data Structures & Algorithms, System Design, and AI**
@@ -17,33 +17,31 @@
 
 ---
 
-## 🛠️ Tech Stack
+### 🛠️ Tech Stack
 
-### Programming Languages
-- Python
-- Java
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-### Backend
-- Spring Boot
 
-### Web Technologies
-- HTML5
-- CSS3
-- JavaScript
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 
-### Database
-- MySQL
 
-### Tools & IDEs
-- IntelliJ IDEA
-- GitHub
-- WorkBench
-- Postman
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### AI Tools
-- ChatGPT
-- Gemini
-- Codex
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
+![MySQL Workbench](https://img.shields.io/badge/MySQL_Workbench-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+
+![ChatGPT](https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
 
 ---
 
@@ -56,35 +54,6 @@
 - Machine Learning
 - SQL Optimization
 - Git & GitHub Best Practices
-
----
-
-## 📌 Projects
-
-Here are some projects I'm working on:
-
-- ☕ Spring Boot REST APIs
-- 🗄️ MySQL Database Projects
-- 🐍 Python Automation Scripts
-- 📊 Data Science & Machine Learning Projects
-- 🌐 Full Stack Web Applications
-
----
-
-## 💼 Areas of Interest
-
-- Backend Development
-- Data Science
-- Machine Learning
-- Artificial Intelligence
-- Web Development
-- Problem Solving
-
----
-
-## 📈 GitHub Stats
-
-> GitHub profile statistics will appear here once you enable GitHub Readme Stats.
 
 ---
 
