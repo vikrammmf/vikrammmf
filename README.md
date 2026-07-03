@@ -1,7 +1,6 @@
 ## Hi there, I'm Vikram Singh
 
-🎓 **B.Tech Computer Science Engineering (Data Science)**  
-📍 3rd Year Student  
+🎓 **B.Tech Computer Science Engineering (Data Science)**  || 📍 3rd Year Student  
 💻 Passionate about Software Development, Data Science, and AI  
 Email: vikramsinghoff2809@gmail.com
 
@@ -25,11 +24,4 @@ Email: vikramsinghoff2809@gmail.com
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
 
----
-## 💡 Quote
-
-> "Learning never exhausts the mind. Every line of code makes you a better developer."
-
----
-⭐ *Thanks for visiting my profile! Feel free to explore my repositories and connect with me.*
 
